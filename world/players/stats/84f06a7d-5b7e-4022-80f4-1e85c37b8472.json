@@ -1,0 +1,82 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 6,
+      "minecraft:time_since_rest": 13985,
+      "minecraft:walk_one_cm": 142531,
+      "minecraft:leave_game": 4,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 240,
+      "minecraft:play_time": 27319,
+      "minecraft:damage_dealt": 48,
+      "minecraft:jump": 123,
+      "minecraft:time_since_death": 13965,
+      "minecraft:interact_with_furnace": 5,
+      "minecraft:sprint_one_cm": 51970,
+      "minecraft:fall_one_cm": 225,
+      "minecraft:total_world_time": 27319,
+      "minecraft:fly_one_cm": 59937,
+      "minecraft:walk_on_water_one_cm": 3054,
+      "minecraft:crouch_one_cm": 4005,
+      "minecraft:sneak_time": 1570,
+      "minecraft:deaths": 3
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:acacia_sapling": 10,
+      "minecraft:dirt": 27,
+      "minecraft:oak_log": 3,
+      "minecraft:stick": 12,
+      "minecraft:cobblestone": 22,
+      "minecraft:acacia_log": 39,
+      "minecraft:wheat_seeds": 29,
+      "minecraft:bow": 2,
+      "minecraft:arrow": 4,
+      "minecraft:bone": 2,
+      "minecraft:acacia_planks": 63
+    },
+    "minecraft:used": {
+      "minecraft:acacia_planks": 40,
+      "minecraft:acacia_door": 1,
+      "minecraft:crafting_table": 1,
+      "minecraft:wooden_pickaxe": 5,
+      "minecraft:furnace": 1,
+      "minecraft:acacia_sapling": 5,
+      "minecraft:torch": 9,
+      "minecraft:stone_pickaxe": 17
+    },
+    "minecraft:crafted": {
+      "minecraft:torch": 24,
+      "minecraft:furnace": 1,
+      "minecraft:stick": 4,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:charcoal": 11,
+      "minecraft:acacia_door": 3,
+      "minecraft:oak_planks": 12,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:air": 0,
+      "minecraft:crafting_table": 1,
+      "minecraft:acacia_planks": 44
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 224,
+      "minecraft:tall_grass": 39,
+      "minecraft:fire": 1,
+      "minecraft:acacia_leaves": 1,
+      "minecraft:oak_leaves": 13,
+      "minecraft:bush": 23,
+      "minecraft:dirt": 4,
+      "minecraft:oak_log": 3,
+      "minecraft:grass_block": 24,
+      "minecraft:acacia_log": 23,
+      "minecraft:stone": 22,
+      "minecraft:acacia_planks": 3
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1
+    }
+  },
+  "DataVersion": 4903
+}

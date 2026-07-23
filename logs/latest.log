@@ -1,0 +1,307 @@
+[08:01:15] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 7.0.0-28-generic (amd64)
+[08:01:15] [ServerMain/INFO]: [bootstrap] Loading Purpur 26.2-2614-HEAD@3c029ce (2026-07-21T22:01:17Z) for Minecraft 26.2
+[08:01:15] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[08:01:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 13 plugins
+[08:01:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (13):
+ - BlueMap (5.22), CoreProtect (24.0), DecentHolograms (2.10.1), Essentials (2.22.1-dev+12-776f709), EssentialsDiscord (2.22.1-dev+12-776f709), EssentialsDiscordLink (2.22.1-dev+12-776f709), Geyser-Spigot (2.11.0-SNAPSHOT), LuckPerms (5.5.60), Multiverse-Core (5.7.2), ViaBackwards (5.11.0), ViaVersion (5.11.0), WorldEdit (7.4.4+7546-f9e033f), voicechat (2.6.21)
+[08:01:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[08:01:19] [ServerMain/INFO]: Loaded 1585 recipes
+[08:01:19] [ServerMain/INFO]: Loaded 1688 advancements
+[08:01:19] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[08:01:19] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 183.8ms
+[08:01:19] [Server thread/INFO]: Starting minecraft server version 26.2
+[08:01:19] [Server thread/INFO]: Loading properties
+[08:01:19] [Server thread/INFO]: This server is running Purpur version 26.2-2614-HEAD@3c029ce (2026-07-21T22:01:17Z) (Implementing API version 26.2.build.2614-stable)
+[08:01:19] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[08:01:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:01:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:01:20] [Server thread/INFO]: [MoonriseCommon] Paper is using 5 worker threads, 1 I/O threads
+[08:01:20] [Server thread/INFO]: Default game type: SURVIVAL
+[08:01:20] [Server thread/INFO]: Generating keypair
+[08:01:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:01:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[08:01:20] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[08:01:20] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loading 1 libraries... please wait
+[08:01:20] [Server thread/INFO]: [SpigotLibraryLoader] [BlueMap] Loaded library /home/branden/Desktop/Purpur server/libraries/com/flowpowered/flow-math/1.0.3/flow-math-1.0.3.jar
+[08:01:20] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.11.0
+[08:01:20] [Server thread/INFO]: [ViaVersion] ViaVersion 5.11.0 is now loaded. Registering protocol transformers and injecting...
+[08:01:21] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[08:01:21] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[08:01:21] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.60
+[08:01:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:01:21] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.1-dev+12-776f709
+[08:01:21] [Server thread/INFO]: [EssentialsDiscord] Loading server plugin EssentialsDiscord v2.22.1-dev+12-776f709
+[08:01:21] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.4+7546-f9e033f
+[08:01:21] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2b2222ef]
+[08:01:21] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Loading server plugin EssentialsDiscordLink v2.22.1-dev+12-776f709
+[08:01:21] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v24.0
+[08:01:21] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.11.0
+[08:01:21] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.11.0-SNAPSHOT
+[08:01:22] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:01:22] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:01:22] [Server thread/INFO]: [CoreLogging] Loading server plugin Multiverse-Core v5.7.2
+[08:01:22] [Server thread/INFO]: [BlueMap] Loading server plugin BlueMap v5.22
+[08:01:22] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.6.21
+[08:01:22] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.10.1
+[08:01:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:01:22] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.60
+[08:01:22] [Server thread/INFO]:         __    
+[08:01:22] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.60
+[08:01:22] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[08:01:22] [Server thread/INFO]: 
+[08:01:22] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:01:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:01:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:01:22] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 525ms)
+[08:01:22] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.4+7546-f9e033f
+[08:01:22] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:01:22] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[08:01:23] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_2.PaperweightAdapter as the Bukkit adapter
+[08:01:23] [Server thread/INFO]: Preparing level "world"
+[08:01:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[08:01:23] [Server thread/INFO]: Preparing spawn area: 100%
+[08:01:23] [Server thread/INFO]: Prepared spawn area in 1 ms
+[08:01:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[08:01:23] [Server thread/INFO]: Prepared spawn area in 0 ms
+[08:01:23] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[08:01:23] [Server thread/INFO]: Prepared spawn area in 1 ms
+[08:01:23] [Server thread/INFO]: Done preparing level "world" (0.479s)
+[08:01:23] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.11.0
+[08:01:23] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.2 (776)
+[08:01:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.1-dev+12-776f709
+[08:01:23] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:01:23] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[08:01:23] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[08:01:23] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[08:01:23] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Modern (Registry-based) PatternType Provider as the provider for PatternTypeProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[08:01:23] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[08:01:23] [Server thread/INFO]: [Essentials] Loaded 46861 items from items.json.
+[08:01:23] [Server thread/INFO]: [Essentials] Using locale en_US
+[08:01:23] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:01:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:01:24] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[08:01:24] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[08:01:24] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[08:01:24] [Server thread/INFO]: [EssentialsDiscord] Enabling EssentialsDiscord v2.22.1-dev+12-776f709
+[08:01:24] [Server thread/INFO]: [EssentialsDiscord] Starting Metrics. Opt-out using the global bStats config.
+[08:01:24] [Server thread/INFO]: [EssentialsDiscord] Attempting to login to Discord...
+[08:01:24] [Server thread/ERROR]: [EssentialsDiscord] An error occurred while logging into Discord, which has caused the plugin to disable itself: 
+No token provided! Please follow the tutorial in the config in order to setup the plugin.
+[08:01:24] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Enabling EssentialsDiscordLink v2.22.1-dev+12-776f709
+[08:01:24] [Server thread/ERROR]: Error occurred while enabling EssentialsDiscordLink v2.22.1-dev+12-776f709 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "net.essentialsx.api.v2.services.discord.DiscordService.getInteractionController()" because "this.api" is null
+	at EssentialsXDiscordLink-2.22.1-dev+12-776f709.jar//net.essentialsx.discordlink.EssentialsDiscordLink.onEnable(EssentialsDiscordLink.java:68) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:279) ~[purpur-api-26.2.build.2614-stable.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:201) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:519) ~[purpur-api-26.2.build.2614-stable.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:647) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:604) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.initPostWorld(MinecraftServer.java:652) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:386) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1282) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[08:01:24] [Server thread/INFO]: [net.essentialsx.discordlink.EssentialsDiscordLink] Disabling EssentialsDiscordLink v2.22.1-dev+12-776f709
+[08:01:24] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v24.0
+[08:01:24] [Server thread/INFO]: [CoreProtect] Minecraft 26.2 is not supported.
+[08:01:24] [Server thread/INFO]: [CoreProtect] CoreProtect Community Edition was unable to start.
+[08:01:24] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v24.0
+[08:01:24] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[08:01:24] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v24.0
+[08:01:24] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.11.0
+[08:01:24] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.11.0-SNAPSHOT
+[08:01:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v5.7.2
+[08:01:25] [Server thread/INFO]: [Multiverse-Core] API service loaded!
+[08:01:25] [Server thread/INFO]: [Multiverse-Core] Version 5.7.2 (API v5.7) Enabled - By dumptruckman, Rigby, fernferret, lithium3141, main--, benwoo1110 and Zax71
+[08:01:25] [Server thread/INFO]: [Multiverse-Core] Loving Multiverse-Core? Please consider supporting the project with a small donation: https://github.com/sponsors/Multiverse
+[08:01:25] [Server thread/INFO]: [BlueMap] Enabling BlueMap v5.22
+[08:01:25] [Server thread/INFO]: [BlueMap] Saving all worlds once, to make sure the level.dat is present...
+[08:01:25] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[08:01:25] [BlueMap-Load/INFO]: [BlueMap] Loading...
+[08:01:25] [Server thread/INFO]: [voicechat] Enabling voicechat v2.6.21
+[08:01:25] [Server thread/INFO]: [voicechat] Initializing compatibility for version 26.2.build.2614-stable
+[08:01:25] [Server thread/INFO]: [voicechat] Compatibility version 20
+[08:01:25] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[08:01:25] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.10.1
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Initialized NMS adapter for v26_2 (26.2).
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/animations
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Loading default attribute values...
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Attribute defaults file not found. Creating default file: plugins/DecentHolograms/attribute-defaults.yml
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Saved resource 'attribute-defaults.yml'.
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Loaded 23 default attribute values!
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Loading displays...
+[08:01:25] [Server thread/INFO]: [DecentHolograms] Loaded 0 displays!
+[08:01:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 26.2.build.2614! Trying to find NMS support
+[08:01:25] [Server thread/WARN]: [NBTAPI] [NBTAPI] This Server-Version(26.2.build.2614-stable) is not supported by this NBT-API Version(2.15.7) located in DecentHolograms. The NBT-API will try to work as good as it can! Some functions may not work!
+[08:01:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[08:01:25] [Server thread/WARN]: [DecentHolograms] NBT-API could not be loaded. Custom NBT in items may not work as expected.
+[08:01:25] [Server thread/INFO]: [spark] Starting background profiler...
+[08:01:25] [BlueMap-Load/INFO]: [BlueMap] Loading resources...
+[08:01:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:01:26] [Server thread/INFO]: [Geyser-Spigot] 
+[08:01:26] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.11.0-b1201 (git-master-4231d73)
+[08:01:26] [Server thread/INFO]: [Geyser-Spigot] 
+[08:01:26] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:01:26] [BlueMap-Load/INFO]: [BlueMap] Resources loaded.
+[08:01:26] [BlueMap-Load/INFO]: [BlueMap] Initializing Storage: 'file' (Type: 'bluemap:file')
+[08:01:26] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world'...
+[08:01:27] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_end'...
+[08:01:27] [BlueMap-Load/INFO]: [BlueMap] Loading map 'world_the_nether'...
+[08:01:27] [Server thread/INFO]: [Geyser-Spigot] Registered 199 custom block overrides.
+[08:01:27] [Server thread/INFO]: [Geyser-Spigot] Registered 2 custom block item overrides.
+[08:01:27] [Server thread/INFO]: [Geyser-Spigot] Registered 7 custom blocks.
+[08:01:27] [BlueMap-Load/INFO]: [BlueMap] WebServer bound to all network interfaces on port 8100
+[08:01:27] [BlueMap-Webserver/INFO]: [BlueMap] WebServer started.
+[08:01:27] [BlueMap-Load/INFO]: [BlueMap] Loaded!
+[08:01:28] [Server thread/INFO]: [Geyser-Spigot] Registered 1 custom items
+[08:01:28] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[08:01:28] [Server thread/INFO]: [Geyser-Spigot] Done (1.864s)! Run /geyser help for help!
+[08:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08:01:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08:01:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:01:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:01:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:01:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:01:28] [Server thread/INFO]: Running delayed init tasks
+[08:01:28] [Craft Scheduler Thread - 0 - DecentHolograms/INFO]: [DecentHolograms] Created directory plugins/DecentHolograms/holograms
+[08:01:28] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[08:01:28] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[08:01:28] [Server thread/INFO]: Done (13.498s)! For help, type "help"
+[08:01:28] [Server thread/INFO]: [voicechat] Loading plugins
+[08:01:28] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[08:01:28] [Server thread/INFO]: [voicechat] Initializing plugins
+[08:01:28] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[08:01:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[08:03:10] [User Authenticator #0/INFO]: UUID of player DelugeMetric is 84f06a7d-5b7e-4022-80f4-1e85c37b8472
+[08:03:10] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms]
+[08:03:11] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[08:03:11] [Server thread/INFO]: DelugeMetric joined the game
+[08:03:11] [Server thread/INFO]: DelugeMetric[/192.168.1.230:51079] logged in with entity id 1 at ([minecraft:overworld]312.7658126407928, 64.0, -32.397026859963916)
+[08:03:32] [Server thread/INFO]: DelugeMetric issued server command: /time set day
+[08:03:44] [Server thread/INFO]: DelugeMetric was shot by Skeleton
+[08:03:54] [Server thread/INFO]: DelugeMetric issued server command: /fly
+[08:04:03] [Server thread/INFO]: DelugeMetric issued server command: /back
+[08:07:07] [Server thread/INFO]: DelugeMetric has made the advancement [Stone Age]
+[08:07:24] [Server thread/INFO]: DelugeMetric has made the advancement [Getting an Upgrade]
+[08:10:19] [Async Chat Thread - #2/INFO]: <DelugeMetric> test
+[08:12:40] [Server thread/INFO]: DelugeMetric issued server command: /spawn
+[08:12:53] [Server thread/INFO]: DelugeMetric issued server command: /warp
+[08:13:06] [Server thread/INFO]: DelugeMetric issued server command: /coreprotect:co
+[08:13:06] [Server thread/ERROR]: Command exception: /coreprotect:co
+org.bukkit.command.CommandException: Cannot execute command 'coreprotect:co' in plugin CoreProtect v24.0 - plugin is disabled.
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:37) ~[purpur-api-26.2.build.2614-stable.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:83) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:30) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:13) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:104) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:478) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:386) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:374) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2486) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$0(ServerGamePacketListenerImpl.java:2459) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:207) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1571) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:192) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:182) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1551) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1545) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.recordTaskExecutionTimeWhileWaiting(MinecraftServer.java:1254) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1391) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:303) ~[purpur-26.2.jar:26.2-2614-3c029ce]
+	at java.base/java.lang.Thread.run(Thread.java:1474) ~[?:?]
+[08:13:35] [Server thread/INFO]: DelugeMetric issued server command: /coreprotect:
+[08:15:24] [Server thread/INFO]: DelugeMetric lost connection: Disconnected
+[08:15:24] [Server thread/INFO]: [voicechat] Disconnecting client DelugeMetric
+[08:15:24] [Server thread/INFO]: DelugeMetric left the game
+[09:20:39] [Server thread/INFO]: Unknown or incomplete command. See below for error
+y<--[HERE]
+[09:20:43] [Server thread/INFO]: Unknown or incomplete command. See below for error
+yes<--[HERE]
+[09:20:49] [Server thread/INFO]: Unknown or incomplete command. See below for error
+exit<--[HERE]
+[09:20:55] [Server thread/INFO]: Stopping the server
+[09:20:55] [Server thread/INFO]: Stopping server
+[09:20:55] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.10.1
+[09:20:55] [Server thread/INFO]: [voicechat] Disabling voicechat v2.6.21
+[09:20:55] [Server thread/INFO]: [BlueMap] Disabling BlueMap v5.22
+[09:20:55] [Server thread/INFO]: [BlueMap] Stopping...
+[09:20:55] [Server thread/INFO]: [BlueMap] Saved and stopped!
+[09:20:55] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.7.2
+[09:20:55] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[09:20:55] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.11.0-SNAPSHOT
+[09:20:55] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[09:20:55] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[09:20:55] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.11.0
+[09:20:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.4+7546-f9e033f
+[09:20:55] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[09:20:55] [Server thread/INFO]: [EssentialsDiscord] Disabling EssentialsDiscord v2.22.1-dev+12-776f709
+[09:20:55] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.1-dev+12-776f709
+[09:20:55] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.60
+[09:20:55] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:20:55] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:20:55] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:20:55] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.11.0
+[09:20:55] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[09:20:55] [Server thread/INFO]: Saving players
+[09:20:56] [Server thread/INFO]: Saving worlds
+[09:20:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0.00s
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[09:20:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_nether'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_nether'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_nether'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_nether' in 0.00s
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_nether'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_nether'
+[09:20:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:the_end'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:the_end'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:the_end'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:the_end' in 0.00s
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:the_end'
+[09:20:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:the_end'
+[09:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:20:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:20:56] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[09:20:56] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[09:20:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[09:20:56] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
